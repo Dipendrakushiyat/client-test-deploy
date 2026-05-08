@@ -1,0 +1,30 @@
+{
+  "node": {
+    "409a64f493a1d3c24295347179fa72f2ae65578f9f": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "$$RSC_SERVER_ACTION_1",
+          "filename": "src/app/page.tsx"
+        }
+      },
+      "filename": "src/app/page.tsx",
+      "exportedName": "$$RSC_SERVER_ACTION_1"
+    },
+    "40e7da8db6016560a74accd35c2615c1935645688d": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "src/app/page.tsx"
+        }
+      },
+      "filename": "src/app/page.tsx",
+      "exportedName": "$$RSC_SERVER_ACTION_0"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "znkP4WUbu20JA0QdXHE7MGkiXcqEQh80Aw6FjvYgaA0="
+}

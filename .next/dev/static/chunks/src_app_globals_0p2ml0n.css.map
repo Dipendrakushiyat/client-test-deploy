@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///app/src/app/globals.css"],"sourcesContent":["* {\n  box-sizing: border-box;\n}\n\nbody {\n  margin: 0;\n  font-family: Arial, sans-serif;\n  background: #f4f4f5;\n}\n\n.container {\n  max-width: 900px;\n  margin: 40px auto;\n  padding: 24px;\n  background: #ffffff;\n  border-radius: 12px;\n}\n\nh1 {\n  margin-top: 0;\n}\n\n.form {\n  display: grid;\n  grid-template-columns: repeat(4, minmax(0, 1fr)) auto;\n  gap: 8px;\n  margin-bottom: 24px;\n}\n\ninput,\nbutton {\n  padding: 10px 12px;\n  border: 1px solid #d4d4d8;\n  border-radius: 8px;\n  font-size: 14px;\n}\n\nbutton {\n  background: #18181b;\n  color: #ffffff;\n  cursor: pointer;\n}\n\ntable {\n  width: 100%;\n  border-collapse: collapse;\n}\n\nth,\ntd {\n  border-bottom: 1px solid #e4e4e7;\n  text-align: left;\n  padding: 12px 8px;\n}\n"],"names":[],"mappings":"AAAA;;;;AAIA;;;;;;AAMA;;;;;;;;AAQA;;;;AAIA;;;;;;;AAOA;;;;;;;AAQA;;;;;;AAMA;;;;;AAKA"}}]
+}
