@@ -63,7 +63,7 @@ export default async function HomePage() {
               <td>
                 <form action={deleteContact}>
                   <input type="hidden" name="id" value={contact.id} />
-                  <button type="submit">Delete</button>
+                  <button type="submit">Deletes</button>
                 </form>
               </td>
             </tr>
